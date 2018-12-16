@@ -1,5 +1,7 @@
 # Wrangling-Open-Street-Map-Data
 
+For Chinese version, see report.pdf document.
+
 Choose any area in the world map using Openstreetmap.org and implement the process of data wrangling involving the process of gathering, assessing and cleaning the data. Use python programming skills to wrangle the data programmatically. Learn SQL and apply the provided schema to the project and perform analyses on the data.
 
 Dataset
@@ -25,4 +27,4 @@ After obtaining the csv files as per the schema I loaded them into a sqlite3 dat
 After the data is cleaned and loaded in to the database, I performed exploratory data analysis on the data to get some interesting findings.
 Here is the link to the analysis report along with few plots. : Exploratory data analysis
 
-For Chinese version, see p3.docx document.
+
