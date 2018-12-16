@@ -24,7 +24,6 @@ Since the dataset was in raw xml format I wrote few scripts to audit the dataset
 After obtaining the csv files as per the schema I loaded them into a sqlite3 database file using the script create-sqlite3-database.py .
 
 5. Data Analysis :
-After the data is cleaned and loaded in to the database, I performed exploratory data analysis on the data to get some interesting findings.
-Here is the link to the analysis report along with few plots. : Exploratory data analysis
+After the data is cleaned and loaded in to the database, I performed exploratory data analysis on the data to get some interesting findings. You can see my result report in report.pdf.
 
 
