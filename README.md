@@ -7,7 +7,7 @@ Choose any area in the world map using Openstreetmap.org and implement the proce
 Dataset
 Map Area : Tianhe, Guangzhou, CHINA
 
-I have been living in Guangzhou for more than a year.
+I have been living in Guangzhou for more than ten year.
 
 Dataset extracted from Openstreetmap.org.
 File size : 82.3 MB 
